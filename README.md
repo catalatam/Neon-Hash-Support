@@ -5,7 +5,7 @@ This is the support and privacy policy website for **Neon Hash**, a cyberpunk id
 ## 🌐 Live Site
 
 Once published, this site will be available at:
-- `https://[your-username].github.io/neon-hash-support/`
+- `https://catalatam.github.io/Neon-Hash-Support/`
 
 ## 📄 Pages
 
